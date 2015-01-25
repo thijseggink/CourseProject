@@ -92,3 +92,7 @@ names(finaldata) <- c("Subject"
                       ,"Frequency Domain - Standard Deviation of Domain Body Gyroscope - Direction X"     
                       ,"Frequency Domain - Standard Deviation of Domain Body Gyroscope - Direction Y"      
                       ,"Frequency Domain - Standard Deviation of Domain Body Gyroscope - Direction Z")
+
+# Step 5 of the course ProjecT: creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+# Summarizes the finaldata by Subject and Activity with the mean over all the columns
+cleandata <- ddply(finaldata, .(Subject, Activity), numcolwise(mean))
