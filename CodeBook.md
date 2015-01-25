@@ -33,37 +33,37 @@ Below is an explanation of each of the variables in the dataset
 
 48 variables/measures are included in the tidy data. Although each of these variables in unique, they can be split up into six dimensions. The following variable name is used as an example: **Time Domain - Mean of Body Gyroscope Jerk - Direction X**
 
-*Domain*
+***Domain***
 
 **Time Domain** - Mean of Body Gyroscope Jerk - Direction X
 
 The domain can be either 'Time' or 'Frequency' Domain
 
-*Measure*
+***Measure***
 
 Time Domain - **Mean** of Body Gyroscope Jerk - Direction X
 
 The measure can be either 'Mean' or 'Standard Deviation'
 
-*Body - Gravity*
+***Body - Gravity***
 
 Time Domain - Mean of **Body** Gyroscope Jerk - Direction X
 
 Either the 'Body' or 'Gravity' is measured in this part of the variable
 
-*Acc/Gyro*
+***Acc/Gyro***
 
 Time Domain - Mean of Body **Gyroscope** Jerk - Direction X
 
 This can be either 'Acceleration' or 'Gyroscope'
 
-*Jerk*
+***Jerk***
 
 Time Domain - Mean of Body Gyroscope **Jerk** - Direction X
 
 'Jerk' or Nothing
 
-*Direction*
+***Direction***
 
 Time Domain - Mean of Body Gyroscope Jerk - **Direction X**
 
