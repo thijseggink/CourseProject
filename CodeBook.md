@@ -39,11 +39,13 @@ Below is an explanation of each of the variables in the dataset
 
 The domain can be either 'Time' or 'Frequency' Domain
 
+
 Time Domain - **Mean** of Body Gyroscope Jerk - Direction X
 
 *Measure*
 
 The measure can be either 'Mean' or 'Standard Deviation'
+
 
 Time Domain - Mean of **Body** Gyroscope Jerk - Direction X
 
@@ -51,17 +53,20 @@ Time Domain - Mean of **Body** Gyroscope Jerk - Direction X
 
 Either the 'Body' or 'Gravity' is measured in this part of the variable
 
+
 Time Domain - Mean of Body **Gyroscope** Jerk - Direction X
 
 *Acc/Gyro*
 
 This can be either 'Acceleration' or 'Gyroscope'
 
+
 Time Domain - Mean of Body Gyroscope **Jerk** - Direction X
 
 *Jerk*
 
 'Jerk' or Nothing
+
 
 Time Domain - Mean of Body Gyroscope Jerk - **Direction X**
 
