@@ -83,15 +83,15 @@ names(finaldata) <- c("Subject"
                       ,"Time Domain - Standard Deviation of Body GyroscopeJerk - Direction X"  
                       ,"Time Domain - Standard Deviation of Body GyroscopeJerk - Direction Y" 
                       ,"Time Domain - Standard Deviation of Body GyroscopeJerk - Direction Z"  
-                      ,"Frequency Domain - Standard Deviation of Domain Body Acceleration - Direction X"       
-                      ,"Frequency Domain - Standard Deviation of Domain Body Acceleration - Direction Y"       
-                      ,"Frequency Domain - Standard Deviation of Domain Body Acceleration - Direction Z"      
-                      ,"Frequency Domain - Standard Deviation of Domain Body Acceleration Jerk - Direction X"   
-                      ,"Frequency Domain - Standard Deviation of Domain Body Acceleration Jerk - Direction Y"   
-                      ,"Frequency Domain - Standard Deviation of Domain Body Acceleration Jerk - Direction Z"   
-                      ,"Frequency Domain - Standard Deviation of Domain Body Gyroscope - Direction X"     
-                      ,"Frequency Domain - Standard Deviation of Domain Body Gyroscope - Direction Y"      
-                      ,"Frequency Domain - Standard Deviation of Domain Body Gyroscope - Direction Z")
+                      ,"Frequency Domain - Standard Deviation of Body Acceleration - Direction X"       
+                      ,"Frequency Domain - Standard Deviation of Body Acceleration - Direction Y"       
+                      ,"Frequency Domain - Standard Deviation of Body Acceleration - Direction Z"      
+                      ,"Frequency Domain - Standard Deviation of Body Acceleration Jerk - Direction X"   
+                      ,"Frequency Domain - Standard Deviation of Body Acceleration Jerk - Direction Y"   
+                      ,"Frequency Domain - Standard Deviation of Body Acceleration Jerk - Direction Z"   
+                      ,"Frequency Domain - Standard Deviation of Body Gyroscope - Direction X"     
+                      ,"Frequency Domain - Standard Deviation of Body Gyroscope - Direction Y"      
+                      ,"Frequency Domain - Standard Deviation of Body Gyroscope - Direction Z")
 
 # Step 5 of the course ProjecT: creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 # Summarizes the finaldata by Subject and Activity with the mean over all the columns
