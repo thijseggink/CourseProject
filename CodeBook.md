@@ -6,9 +6,11 @@ The dataset consists of 180 observations over 51 variables.
 Below is an explanation of each of the variables in the dataset
 
 *Subject*
+
 30 subjects participated in the research. Hence the subject variable is the number for the subject ranging from 1 to 30.
 
 *Activity*
+
 6 Activities were measured in the data set. This variable presents the descriptive names attached to the Activity Number Variable. The six activities are:
 1 - Walking
 2 - Walking_Upstairs
@@ -18,6 +20,7 @@ Below is an explanation of each of the variables in the dataset
 6 - Laying
 
 *Activity Number*
+
 6 Activities were measured in the data set. This variable captures the activity ranging from 1 to 6, where the following applies:  
 1 = Walking
 2 = Walking_Upstairs
